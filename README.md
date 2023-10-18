@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Most of my projects are stored in my university's GitLab server, so my profile here is somewhat quiet.
+
 <!--
 **gabrielbvargas/gabrielbvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
